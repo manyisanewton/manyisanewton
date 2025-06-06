@@ -31,7 +31,7 @@ I'm a Full-Stack Developer with over 2 years of experience building scalable web
   A React-based app for browsing cocktails using TheCocktailDB API.  
   - Features debounced search, pagination, and animations with Framer Motion.
 
-- **[Real Estate App](https://github.com/manyisanewton/muji.git)**  
+- **[Muji a shop for selling cashew nuts](https://github.com/manyisanewton/muji.git)**  
   A platform with real-time updates using Flask-SocketIO and an interactive React UI.
 
 ### 📫 Get in Touch
