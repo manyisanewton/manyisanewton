@@ -22,16 +22,16 @@ I'm a Full-Stack Developer with over 2 years of experience building scalable web
   - Applied TDD to reduce bugs by 30%.
 
 ### 🌟 Projects
-- **[Shoe Store Application](https://github.com/manyisanewton/shoe-store-app)**  
+- **[Shoe Store Application](https://github.com/manyisanewton/shoes-haven.git)**  
   A full-stack e-commerce platform with M-Pesa integration via Daraja API.  
   - Secured payment processes with STK Push.  
   - Deployed on Render with Flask and React.
 
-- **[Cocktail App](https://github.com/manyisanewton/cocktail-app)**  
+- **[Cocktail App](https://github.com/manyisanewton/cocktail.git)**  
   A React-based app for browsing cocktails using TheCocktailDB API.  
   - Features debounced search, pagination, and animations with Framer Motion.
 
-- **[Real Estate App](https://github.com/manyisanewton/real-estate-app)**  
+- **[Real Estate App](https://github.com/manyisanewton/muji.git)**  
   A platform with real-time updates using Flask-SocketIO and an interactive React UI.
 
 ### 📫 Get in Touch
