@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Newton Manyisa!
+
 # 💫 About Me:
 I'm a Full-Stack Developer with over 2 years of experience building scalable web applications using Python, Flask, React, and C#. I specialize in delivering user-centric solutions with a focus on performance, security, and deployment on platforms like AWS and Render.<br><br>
 
