@@ -33,5 +33,5 @@ problem-solving, debugging, and turning complex requirements into user-focused s
 
 ### 📫 Get in Touch
 - 📧 [devnewton21@gmail.com](mailto:devnewton21@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/manyisanewton)  
-- 🌐 [Portfolio](https://my-cv-qgwr.onrender.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/manyisa-newton-114781346/)  
+- 🌐 [Portfolio](https://newton-manyisa-momanyi.onrender.com/)
